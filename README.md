@@ -49,6 +49,11 @@ alswl 的改进
 支持 utf-8，使用 `category_cloud` 替换 `tag_cloud` ，
 以避免和 [真正的标签云](https://github.com/robbyedwards/octopress-tag-cloud) 冲突。
 
+looyao 的改进
+---------
+
+支持中文category，url自动改为拼音
+
 Notes:
 ------
 Be sure to insert above template files into `default_asides` array in `_config.yml`.
